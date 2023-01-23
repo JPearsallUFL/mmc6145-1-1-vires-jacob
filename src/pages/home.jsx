@@ -7,14 +7,14 @@ export default function Home() {
       id: 1,
       title: "Brewery Finder",
       info: "This website was developed as part of a group project",
-      image: "public/assets/brewery.png",
+      image: "public/images/brewery.png",
       project_url: "https://brewery-finder-group2-fall.herokuapp.com/"
     },
     {
       id: 2,
       title: "Unsplash Photography",
       info: "This site was developed to show random unspalsh images with text below",
-      image: "public/assets/unsplash.png",
+      image: "public/images/unsplash.png",
       project_url: "https://jpearsallufl.github.io/m12-hw12-pearsall-jacob/"
     },
     // I had to add in a third instance of the projects in order to get the tests to pass. 
@@ -22,7 +22,7 @@ export default function Home() {
       id: 3,
       title: "Unsplash Photography",
       info: "This site was developed to show random unspalsh images with text below",
-      image: "public/assets/unsplash.png",
+      image: "public/images/unsplash.png",
       project_url: "https://jpearsallufl.github.io/m12-hw12-pearsall-jacob/"
     }
   ]
